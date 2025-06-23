@@ -1,0 +1,4 @@
+# Ignore all files in any directory named temp
+# 
+data/
+load/
